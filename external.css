@@ -1,0 +1,12 @@
+/* p{
+    color: red;
+    font-size: 16px;
+} */
+
+div{
+    box-sizing: content-box;
+    padding: 10px;
+    border: 1px solid red;
+    height: 400px;
+    width: 500px;
+}
